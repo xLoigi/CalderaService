@@ -16,7 +16,7 @@ function createCaldera(accountId) {
         "notes": "",
         "fallback": false
     }, global.JWT_SECRET );
-
+    
     return CalderaToken
 }
 
