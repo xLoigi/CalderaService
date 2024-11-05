@@ -1,15 +1,15 @@
-#Caldera Service
+# Caldera Service
 
 Recreates a service that is used for the startup of newer Fortnite builds.
 
 
-##Tutorial
+## Tutorial
 
 -> Open config.json and change the value to the version you want to start
 
 -> Start the install_packages.bat and then the start.bat
 
-##For login
+## For login
 
 -> You need to use the FortniteLauncher.exe and with that also the Anti Cheat 😔
 
@@ -43,10 +43,10 @@ Recreates a service that is used for the startup of newer Fortnite builds.
     }
 	
 
-##Tested versions: 
+## Tested versions: 
 
 -> Right now the only tested version is 27.11, if you test version please message me if it worked or not.
 
-###TO EPIC, PLEASE DONT USE ME, YOU CAN MESSAGE ME AND I WILL INSTANTLY TAKE IT DOWN
+### TO EPIC, PLEASE DONT USE ME, YOU CAN MESSAGE ME AND I WILL INSTANTLY TAKE IT DOWN
 
-###I AM NOT AFFILIATED WITH EPIC GAMES OR FORTNITE IN ANY WAY
+### I AM NOT AFFILIATED WITH EPIC GAMES OR FORTNITE IN ANY WAY
